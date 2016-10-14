@@ -7,7 +7,10 @@
 //
 
 #import "ViewController.h"
+//图片水印
 #import "UIImage+watermark.h"
+//图片灰度化
+#import "UIImage+grayImage.h"
 //屏幕
 #define WIDTH [UIScreen mainScreen].bounds.size.width
 #define HEIGHT [UIScreen mainScreen].bounds.size.height

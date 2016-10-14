@@ -16,6 +16,7 @@
 		C69FFB251DB0692900C0267D /* UIImage+watermark.m in Sources */ = {isa = PBXBuildFile; fileRef = C69FFB241DB0692900C0267D /* UIImage+watermark.m */; };
 		C69FFB271DB06B1C00C0267D /* big.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C69FFB261DB06B1C00C0267D /* big.jpg */; };
 		C69FFB291DB06B2600C0267D /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C69FFB281DB06B2600C0267D /* logo.png */; };
+		C69FFB2C1DB08C5000C0267D /* UIImage+grayImage.m in Sources */ = {isa = PBXBuildFile; fileRef = C69FFB2B1DB08C5000C0267D /* UIImage+grayImage.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		C69FFB241DB0692900C0267D /* UIImage+watermark.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+watermark.m"; sourceTree = "<group>"; };
 		C69FFB261DB06B1C00C0267D /* big.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = big.jpg; sourceTree = "<group>"; };
 		C69FFB281DB06B2600C0267D /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		C69FFB2A1DB08C5000C0267D /* UIImage+grayImage.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+grayImage.h"; sourceTree = "<group>"; };
+		C69FFB2B1DB08C5000C0267D /* UIImage+grayImage.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+grayImage.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,8 @@
 				C69FFB081DB0680500C0267D /* Supporting Files */,
 				C69FFB231DB0692900C0267D /* UIImage+watermark.h */,
 				C69FFB241DB0692900C0267D /* UIImage+watermark.m */,
+				C69FFB2A1DB08C5000C0267D /* UIImage+grayImage.h */,
+				C69FFB2B1DB08C5000C0267D /* UIImage+grayImage.m */,
 			);
 			path = ZYWatermarkImage;
 			sourceTree = "<group>";
@@ -165,6 +170,7 @@
 				C69FFB251DB0692900C0267D /* UIImage+watermark.m in Sources */,
 				C69FFB101DB0680500C0267D /* ViewController.m in Sources */,
 				C69FFB0D1DB0680500C0267D /* AppDelegate.m in Sources */,
+				C69FFB2C1DB08C5000C0267D /* UIImage+grayImage.m in Sources */,
 				C69FFB0A1DB0680500C0267D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
